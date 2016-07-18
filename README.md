@@ -56,6 +56,7 @@ module.exports = {
 ```
 
 ##References
+[Paytm Gateway Reference](http://paywithpaytm.com/)
 [Paytm Api Documentation](http://paywithpaytm.com/developer/paytm_api_doc/)
 
 ##Author
