@@ -1,0 +1,19 @@
+{
+  "name": "paytmGratify",
+  "version": "1.1.4",
+  "description": "Paytm Customer Gratification Module for Merchant Transaction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "paytm customer gratification",
+    "move funds from subwallet to customer wallet"
+  ],
+  "author": "Dinesh Kumar Sharma <dinesh3836@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "request": "^2.73.0"
+  }
+}
