@@ -56,10 +56,8 @@ module.exports = {
 ```
 
 ##References
-[Paytm Gateway Reference](http://paywithpaytm.com/)
 [Paytm Api Documentation](http://paywithpaytm.com/developer/paytm_api_doc/)
 
 ##Author
-**Dinesh Kumar Sharma**
-dinsh3836@gmail.com
+[Dinesh Kumar Sharma](https://in.linkedin.com/in/dinesh-sharma-2a7312100)
 
